@@ -1331,6 +1331,9 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [PushBullet](https://www.pushbullet.com/) - Pushbullet connects your devices, making them feel like one.
 - [![Open-Source Software][oss icon]](https://github.com/rustdesk/rustdesk) [Rustdesk](https://rustdesk.com/) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
 - [Teamviewer](https://www.teamviewer.com/) - PC remote control/remote access software, free for personal use.
+- [Getscreen.me](https://getscreen.me/en/download/)  PC remote control/remote access software, free for personal use.
+- [Hoptodesk.com](https://www.hoptodesk.com/)   PC remote control/remote access software,Free
+- [Rustdesk.com](https://rustdesk.com/)  PC remote control/remote access software,Free
 
 #### Torrent Client
 
